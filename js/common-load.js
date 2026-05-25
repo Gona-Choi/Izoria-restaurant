@@ -11,7 +11,7 @@ window.addEventListener("DOMContentLoaded", () => {
         }
       });
     });
-  fetch("/assets/html-common/footer.html")
+  fetch("assets/html-common/footer.html")
     .then((res) => res.text())
     .then((data) => {
       document.getElementById("footer-placeholder").innerHTML = data;
