@@ -20,7 +20,7 @@ Semantic HTML
 Clean, maintainable code
 Git branching workflow
 
-Live Demo
-View Site
+[View Live Demo] (https://amazing-pavlova-c3180c.netlify.app/)
+
 
 Note: Completed as part of an online HTML/CSS/JavaScript study program (August 2025).
